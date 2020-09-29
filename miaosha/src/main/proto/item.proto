@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+pacakge miaosha;
+
+message UserModelProto {
+	optinal int32 id;
+}
+
+
+
